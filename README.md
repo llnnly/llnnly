@@ -1,6 +1,6 @@
 ### Hi there 👋
 🚮 I'm Danil, advanced senior cleaner at Pyaterochka <br>
-💅 My career: web-programmer at Amazon(2012-2014), leading programmer at Google(2014-2014) and Microsoft(2016-2017). Cleaner at Pyaterochka (2017-now)
+💅 My career: web-programmer at Amazon(2012-2014), lead programmer at Google(2014-2014) and Microsoft(2016-2017). Cleaner at Pyaterochka (2017-now)
 
 <hr>
 <!--
