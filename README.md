@@ -1,5 +1,8 @@
 ### Hi there 👋
+I'm Danil, advanced senior cleaner at Pyaterochka, 
+💅 My career: web-programmer at Amazon(2012-2014), leading programmer at Google(2014-2014) and Microsoft(2016-2017). Cleaner at Pyaterochka (2017-now)
 
+<hr>
 <!--
 **llnnly/llnnly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
